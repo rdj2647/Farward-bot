@@ -1,1 +1,1 @@
-worker: python forward_bot.py
+worker: python forwad_bot.py
